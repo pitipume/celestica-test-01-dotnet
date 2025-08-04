@@ -1,3 +1,8 @@
+# DISCLAIMED!!
+Here are the following file related to the test
+- 4). ShabuMemberPromotion.cs (use ChatGPT in helping connect database Postgres.
+- 5). ProductStatus.cs (use ChatGPT for everything, I never use store procedure before) -> Also, not finish on time.
+
 Required program
 - IDE (Visual Studio Purple)
 - PgAdmin
