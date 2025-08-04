@@ -9,7 +9,7 @@ Required NuGet
 - Microsoft.EntityFrameworkCore.SqlServer (no use)
 
 Step to run create db
-# dotnet new tool-manifest -> this will create config cli
-# dotnet tool install dotnet-ef -> this will install dotnet-ef cli
-# dotnet ef migrations add InitialCreate -> this will create migration folder
-# dotnet ef database update -> this will create database table
+- `dotnet new tool-manifest` -> this will create config cli
+- `dotnet tool install dotnet-ef` -> this will install dotnet-ef cli
+- `dotnet ef migrations add InitialCreate` -> this will create migration folder
+- `dotnet ef database update` -> this will create database table
